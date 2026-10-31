@@ -1,3 +1,1 @@
-console.log("login");
-
-console.log("womens second half");
+console.log("womens first half");
